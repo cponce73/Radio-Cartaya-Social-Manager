@@ -1,0 +1,8 @@
+{
+  "name": "Radio Cartaya Social Manager",
+  "description": "Herramienta avanzada para generar publicaciones de Facebook para Radio Cartaya 107.2 FM, incluyendo redacción con emojis y generación de imágenes profesionales de estudio de radio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
